@@ -22,5 +22,4 @@ public class MainActivity extends AppCompatActivity {
         MediaPlayer audio = MediaPlayer.create(this, R.raw.baby_laughing);
         audio.start();
     }
-
 }
